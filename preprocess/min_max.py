@@ -1,0 +1,22 @@
+import numpy as np
+var = {
+    'HGB':(3,20),
+    'Glucose':(10,1000),
+    'HbA1C (EDTA-blood)':(4,15),
+    'Sodium':(60,160),
+    'Potassium':(1,10),
+    'Blood urea nitrogen':(5,200),
+    'Creatinine':(0.1,30),
+    'LDL Cholesterol':(20,500),
+    'HR':(20,300),
+    'HIGH':(100,250),
+    'BW':(20,200),
+    'SBP':(40,250),
+    'DBP':(20,200),
+    'SPO2':(20,100),
+    'NT-proBNP':(1,50000),
+    'proBNP':(1,50000),
+    'Age':(19,110),
+    # 'ef':(0,100),
+    'Days':(1,np.inf),
+}

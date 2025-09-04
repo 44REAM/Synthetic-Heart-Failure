@@ -1,0 +1,14 @@
+
+*.gzip
+*.pkl
+*.pt
+*.xlsx
+*.csv
+*.parquet
+*.png
+__pycache__/
+data/
+checkpoints/
+workspace/
+results/
+synthetic_data_chunks/
