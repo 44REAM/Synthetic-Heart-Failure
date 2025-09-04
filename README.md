@@ -14,5 +14,7 @@ This project details the process of creating and validating a privacy-preserving
 
 ## Dataset
 ```
-Puttanawarut, C., Ratanatharathorn, C., Amornritvanich, P., & Looareesuwan, P. (2025). Heart Failure synthetic dataset [Data set]. Zenodo. https://doi.org/10.5281/zenodo.17051668
+Puttanawarut, C., Ratanatharathorn, C., Amornritvanich, P., & Looareesuwan, P. (2025).
+Heart Failure synthetic dataset [Data set]. Zenodo.
+https://doi.org/10.5281/zenodo.17051668
 ```
