@@ -1,8 +1,8 @@
 
 
-# Synthetic Heart Failure Dataset Generation
+# Synthetic Survival Data Generation for Heart Failure Prognosis Using Deep Generative Models
 
-This repository contains the official code for the paper: 
+This repository contains the official code for the paper: Synthetic Survival Data Generation for Heart Failure Prognosis Using Deep Generative Models
 
 ## About The Project
 
