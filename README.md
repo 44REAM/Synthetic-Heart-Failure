@@ -18,3 +18,15 @@ Puttanawarut, C., Ratanatharathorn, C., Amornritvanich, P., & Looareesuwan, P. (
 Heart Failure synthetic dataset [Data set]. Zenodo.
 https://doi.org/10.5281/zenodo.17051668
 ```
+## Research Paper
+```
+@misc{puttanawarut2025syntheticsurvivaldatageneration,
+      title={Synthetic Survival Data Generation for Heart Failure Prognosis Using Deep Generative Models}, 
+      author={Chanon Puttanawarut and Natcha Fongsrisin and Porntep Amornritvanich and Cholatid Ratanatharathorn and Panu Looareesuwan},
+      year={2025},
+      eprint={2509.04245},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2509.04245}, 
+}
+```
